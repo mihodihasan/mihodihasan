@@ -1,6 +1,6 @@
 ![Me](/images/android.jpg)
 # ***Mihodi H. Lushan***
-
+![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-4+yrs-red)
 ### Hi there, 👋
 
 - 🔭 I’m currently working on Ride-sharing and Livestock-Marketplace
